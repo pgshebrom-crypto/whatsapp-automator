@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-automator",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "lucide-react": "^1.8.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.2",
+    "vite": "^1.0.0-rc.13",
+    "vite-plugin-react": "^4.0.0"
+  }
+}
